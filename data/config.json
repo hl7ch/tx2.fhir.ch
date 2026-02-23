@@ -1,4 +1,5 @@
 {
+  "hostName" : "tx2.fhir.ch",
   "server": {
     "port": 3000,
     "cors": {
@@ -23,7 +24,7 @@
       "expansionCacheMemoryThreshold": 0,
       "endpoints": [
         {
-          "path": "/tx/r4",
+          "path": "/r4",
           "fhirVersion": "4.0.1"
         }
       ]
