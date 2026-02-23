@@ -1,0 +1,31 @@
+# Default Terminology Library Configuration
+# License-free terminology sources only
+#
+# For licensed systems (SNOMED CT, LOINC, RxNorm, CPT, etc.),
+# mount your own config/ volume with a customized library.yml.
+
+base:
+  url: https://storage.googleapis.com/tx-fhir-org
+
+sources:
+  # Built-in code systems
+  - internal:lang
+  - internal:country
+  - internal:currency
+  - internal:mimetypes
+
+  # UCUM - Unified Code for Units of Measure
+  # - ucum:data/terminology-cache/ucum-essence-2.2.xml
+
+  # SNOMED CT (International Edition)
+  - snomed!:sct_intl_20251201.cache
+  - snomed:sct_ch_20251207.cache
+
+  # LOINC (Logical Observation Identifiers Names and Codes)
+  - loinc:loinc-2.81-b.db
+
+  # Other FHIR packages
+  - npm!:ch.fhir.ig.ch-term#3.3.0
+  - npm:ch.fhir.ig.ch-term#3.2.0
+  - npm:ch.fhir.ig.ch-term#3.1.0
+  - npm:ch.fhir.ig.ch-vacd#6.0.0

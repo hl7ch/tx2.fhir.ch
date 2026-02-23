@@ -1,0 +1,9 @@
+services:
+  fhirserver:
+    image: ghcr.io/healthintersections/fhirsmith:latest
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config
+    container_name: tx2-fhir
+    ports:
+      - "3000:3000" # Map port 3000 from the host to port 3000 in the container
