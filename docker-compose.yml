@@ -1,6 +1,6 @@
 services:
   fhirserver:
-    image: ghcr.io/healthintersections/fhirsmith:latest
+    image: ghcr.io/healthintersections/fhirsmith:cibuild
     volumes:
       - ./data:/app/data
       - ./config:/app/config
