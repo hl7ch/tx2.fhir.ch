@@ -18,12 +18,12 @@ sources:
   # - ucum:data/terminology-cache/ucum-essence-2.2.xml
 
   # SNOMED CT (International Edition)
-  - snomed!:sct_intl_20251201.cache
-  - snomed:sct_ch_20251207.cache
+  - snomed!:sct_intl_20260301.cache
+  - snomed:sct_ch_20251207_2.cache
 
   # LOINC (Logical Observation Identifiers Names and Codes)
   - loinc:loinc-2.81-b.db
 
   # Other FHIR packages
-  - npm!:ch.fhir.ig.ch-term#3.3.0
+  - npm:ch.fhir.ig.ch-term#3.3.0
   - npm:ch.fhir.ig.ch-vacd#6.0.0

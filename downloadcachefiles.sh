@@ -10,7 +10,9 @@ BASE_URL="https://igs.raly.ch/tx.fhir.ch/cache-files"
 FILES=(
     "loinc-2.81-b.db"
     "sct_ch_20251207.cache"
+    "sct_ch_20251207_2.cache"
     "sct_intl_20251201.cache"
+    "sct_intl_20260301.cache"
 )
 
 # Create the download directory if it doesn't exist
