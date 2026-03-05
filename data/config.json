@@ -1,5 +1,5 @@
 {
-  "hostName" : "tx2.fhir.ch",
+  "hostName" : "tx-dev.raly.ch",
   "server": {
     "port": 3000,
     "cors": {
