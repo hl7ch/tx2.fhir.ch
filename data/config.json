@@ -1,5 +1,5 @@
 {
-  "hostName" : "tx-dev.raly.ch",
+  "hostName" : "tx.fhir.ch",
   "server": {
     "port": 3000,
     "cors": {
@@ -25,7 +25,8 @@
       "endpoints": [
         {
           "path": "/r4",
-          "fhirVersion": "4.0.1"
+          "fhirVersion": "4.0",
+          "context": null
         }
       ]
     }
