@@ -25,7 +25,7 @@
       "endpoints": [
         {
           "path": "/r4",
-          "fhirVersion": "4.0",
+          "fhirVersion": "4.0.1",
           "context": null
         }
       ]
