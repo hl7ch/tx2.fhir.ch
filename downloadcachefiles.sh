@@ -7,12 +7,17 @@ DOWNLOAD_DIR="./data/terminology-cache/"
 BASE_URL="https://igs.raly.ch/tx.fhir.ch/cache-files"
 
 # List of files to download
+#FILES=(
+#    "sct_ch_20251207.cache"
+#    "sct_ch_20251207_2.cache"
+#    "sct_ch_20260607.cache"
+#    "sct_intl_20251201.cache"
+#    "sct_intl_20260301.cache"
+#    "sct_intl_20260601.cache"
+#)
 FILES=(
-    "loinc-2.81-b.db"
-    "sct_ch_20251207.cache"
-    "sct_ch_20251207_2.cache"
-    "sct_intl_20251201.cache"
-    "sct_intl_20260301.cache"
+    "sct_ch_20260607.cache"
+    "sct_intl_20260601.cache"
 )
 
 # Create the download directory if it doesn't exist
