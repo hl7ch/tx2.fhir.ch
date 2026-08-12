@@ -25,7 +25,10 @@ sources:
   - loinc:Loinc_2.82.db
 
   # Other FHIR packages
-  - npm:ch.fhir.ig.ch-term#3.4.0
+  - npm!:ch.fhir.ig.ch-term#3.4.0
+  - npm:ch.fhir.ig.ch-term#3.3.0
+  - npm:ch.fhir.ig.ch-term#3.2.0
+  - npm:ch.fhir.ig.ch-term#3.1.0
   - npm:ch.fhir.ig.ch-vacd#7.0.0-ballot
   - npm:ch.fhir.ig.ch-epreg#1.0.0
   - npm:ch.fhir.ig.ch-epl#1.0.1
