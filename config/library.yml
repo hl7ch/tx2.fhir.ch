@@ -41,6 +41,7 @@ sources:
   - npm:ch.fhir.ig.ch-lab-report#2.0.0
   - npm:ch.fhir.ig.ch-epreg#1.0.0
   - npm:ch.fhir.ig.ch-epr-fhir#5.0.0
+  - npm:ch.fhir.ig.ch-idmp#1.0.0-ballot
   - npm:ch.fhir.ig.ch-emed-epr#3.0.0
   - npm:ch.fhir.ig.swissnoso#1.0.0
   - npm:swiss.mednet.fhir#0.20.0
