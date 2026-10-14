@@ -35,6 +35,7 @@ sources:
   - npm:ch.fhir.ig.ch-elm#1.14.0
   - npm:ch.fhir.ig.ch-crl#0.9.0
   - npm:ch.fhir.ig.ch-ems#2.0.0-ballot
+  - npm:ch.fhir.ig.ch-emr#1.0.0-ballot
   - npm:ch.fhir.ig.ch-rad-order#2.0.1
   - npm:ch.fhir.ig.ch-orf#3.0.2
   - npm:ch.fhir.ig.ch-lab-order#3.0.0
@@ -45,4 +46,6 @@ sources:
   - npm:ch.fhir.ig.ch-emed-epr#3.0.0
   - npm:ch.fhir.ig.swissnoso#1.0.0
   - npm:swiss.mednet.fhir#0.20.0
+  - npm:ch.fhir.ig.ch-umzh-connect#1.0.0-ballot
+  - npm:ch.fhir.ig.ch-alis-connect#1.0.0-ballot
 
