@@ -12,6 +12,21 @@
     "database": "stats.db",
     "intervalMinutes": 10
   },
+  "npmAudit": {
+    "enabled": false,
+    "intervalHours": 24
+  },
+  "email": {
+    "host": "<-mailserver->",
+    "port": 465,
+    "user": "<-mailuser-->",
+    "password": "<-mailpassword->",
+    "from": "FHIRsmith"
+  },
+  "dailyReport": {
+    "enabled": true,
+    "to": ["<-toaddress->"]
+  },
   "modules": {
     "shl": { "enabled": false },
     "vcl": { "enabled": false },
