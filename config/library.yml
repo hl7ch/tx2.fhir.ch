@@ -25,6 +25,7 @@ sources:
   - loinc:Loinc_2.82.db
 
   # Other FHIR packages
+  - npm!:ch.fhir.ig.ch-term#3.5.0-ci-build
   - npm!:ch.fhir.ig.ch-term#3.4.0
   - npm:ch.fhir.ig.ch-term#3.3.0
   - npm:ch.fhir.ig.ch-term#3.2.0
