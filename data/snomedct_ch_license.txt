@@ -1,0 +1,1234 @@
+S NOM ED CT® A FFIL I ATE LICENSE A GR EEM EN T
+
+IM P ORTA NT NO TICE – PLEA SE R EAD T HE F OLL OW ING CA REF ULLY
+This is a License Agreem ent betwee n (1) The International Health Terminol ogy
+Standards Developme nt Orga nisation (trading as SNOMED International), a private
+company limited by guarantee and established under the laws of England (registered
+number 099158 20), with its registere d office at One Kingdo m Street, Pa ddington Ce ntral,
+Londo n, W2 6 BD (the “Lice ns or ”), and (2) the person or organization to which the
+International Release of S NO MED C T (whether on its own or as part of a Me mber’s
+National Release of S NO M ED CT) is distributed or other wise made available (the
+“Licensee”).
+By downloading, accessing or using any part of the International Release of S NO MED C T
+or a Me mber’s National Release of SNO M ED CT, or exercising any rights granted under
+this License Agree ment, the Licensee agrees to be bound by the terms of this License
+Agreeme nt.
+License Fees and other conditions and restrictions apply to the use of the International
+Release of SNO M ED CT in a Non- Me m ber Territory, and to the deployme nt, distribution
+and licensing of Licensee Products within a Non- Me mb er Territory. In this regard the
+Licensee’s attention is drawn in particular to clause 7 (License Fees) and clause 9
+(Use in Me mber Territories and Non-Member Territories).
+
+1.
+
+D EFINED TER MS AND INTERPRETATION
+
+1.1
+
+In this License Agree ment, terms defined in Appe ndix A (Defined Ter ms) have the
+mea nings set out in that Appendix.
+
+1.2
+
+In the event of any conflict or inconsistency between the English language version and any other
+language version of this License Agreement, the English language version shall take precedence.
+
+2.
+
+GR A N T OF LICENSE
+
+2.1
+
+The Licensor grants the Licensee, subject to the terms of this License Agreeme nt, a
+perpetual (subject to revocation in accordanc e w ith clause 5), world wide, nonexclusive, non-transferable license for the term of this License Agree ment to:
+2.1.1
+
+use, and permit the Licensee’s officers, employees , agents and contractors
+to use, the International Release;
+
+2.1.2
+
+create Extensions and Derivatives from the International Release and use
+and modify those Extensions and Derivatives;
+
+2.1.3
+
+incorporate the International Release into Licensee Products, and distribute
+Licensee Products under a sub-license in accordanc e with cla use 2.1.5;
+
+2.1.4
+
+modify the ma nner of formatting of the copy of the SNO M ED CT Core
+distributed to the Licensee as part of the International Release or as part of
+a Me mber’s National Release; and
+
+2
+
+2.1.5
+
+2.2
+
+subject to clause 5.8, grant sub-licenses of the International Release t o
+End Us ers to the extent necessary for the End U sers to use the License e
+Products.
+
+The Licensee may only use the International Release, and must ensure that its
+officers, employees, agents and contractors only use the International Release:
+2.2.1
+
+for the Licensee’s internal business purposes (including the creation by the
+Licensee of Extensions, Derivatives and other Licensee Products along with
+the licensing and distribution by the Licensee of the Licensee Products);
+
+2.2.2
+
+in the developm ent and operation of the Licensee’s information systems;
+
+2.2.3
+
+for the Licensee’s researc h purposes;
+
+2.2.4
+
+in the Licensee’s systems (including browsers and data analysis systems )
+made available to the general public for accessing and/or retrieving any part
+of the International Release and/or data encoded using the foregoing,
+provided that users of those systems are not able to extract any substantial
+portion of SNO M ED CT and provided further that no fee is charged for acces s
+to those systems except where access is incidental to the provision of trainin g
+or consulting services; and/or
+
+2.2.5
+
+to transmit to third parties messages that contain patient information encoded using
+SNOMED CT, provided that the SNOMED CT Content contained within those messages
+consists solely of SNOMED CT Identifiers and descriptions of SNOMED CT concepts.
+
+2.3
+
+The Licensee is only permitted under this License Agreem ent to create Extensions
+from the International Release and to create De rivatives from the International
+Release and from those Extensions. The Licensee m ay only create an Extension or a
+Derivative from any Me mber’s Extension pursuant to a license agreem ent with that
+Me mb er in respect of the Me mber’s National Release .
+
+2.4
+
+The Licensee is not permitted to translate any part of the International Release into
+any other human language without the prior written consent of the Licensor.
+
+2.5
+
+Each sub-license granted by the Licensee under clause 2.1.5 must:
+2.5.1
+
+not grant the End Us er any greater rights in respect of the International
+Release than the Licensee itself has under this License Agree ment;
+
+2.5.2
+
+not permit the End User to do any act or thing in respect of the
+International Release that the Licensee is prohibited from doing und er thi s
+License Agreeme nt;
+
+2.5.3
+
+not permit the End User to sub-license or transfer a ny of its rights under the
+sub-license (unless the End User is also an Affiliate, in w hich case that Affiliate
+shall be entitled to sub-license further its rights under the sub- licens e
+with the Licensee, subject to the same restrictions as apply to sub- licensing
+the International Release under the Affiliate’s license agree ment with the
+Licensor);
+
+2.5.4
+
+terminate automatically upon termination of this License Agree ment;
+
+2.5.5
+
+provide that the End User may apply directly to the Licensor upon receiving
+
+3
+
+notice that the sub-license will terminate in accordanc e with cla use 2.5. 4,
+and that the Licensor may in such circumstances (but shall not be obliged
+to):
+
+2.5.6
+
+(a)
+
+grant the End User a license in respect of the International Release
+for a limited period in order to enable the End Us er to continue to
+use the Licensee Products that are subject to the s ub -license during
+that period; or
+
+(b)
+
+give the End User an assuranc e or und ertaking that for a limited
+period the Licensor will not seek to prevent the End User from using
+the Licensee Products; and
+
+permit the Licensee to disclose the terms of the sub-license to the Licensor
+in accordance with clauses 7 and 8.
+
+2.6
+
+If the Licensee becomes a ware of any material error or change or correction neede d
+in the International Release, the Licensee agrees to advise the Licensor prom ptly of
+such error, change or correction by following the Licensor’s procedures for change
+notification that the Licensor prescribes by Regula tions and notifies to the Licensee
+from time to time.
+
+2.7
+
+The Licensee s h a l l i m p l e m e n t r e a s o n a b l e m e a s u r e s t o e n s u r e
+that the International Release (and any part of it) cannot be
+accessed or downloaded from the Licensee’s systems except
+b y a u t h o r i s e d u s e r s , a n d shall comply with the security meas ures that
+the Licensor prescribes by Regulations and notifies to the Licensee from time to time.
+
+3.
+
+EXTENS IONS A ND D ERIVA T IV ES
+
+3.1
+
+The Licensee may not create any Standards- Based Extension or any Standards Based
+Derivative unless it has first been issued with a Na mespace Identifier by or on behalf
+of the Licensor.
+
+3.2
+
+The Licensee may request that the Licensor issue it with a Na mesp ace Identifier,
+and the Licensor shall not unreasonably refuse to do so taking into account amongst
+other things quality assurance, governanc e processes, Standards and Regulations.
+
+3.3
+
+The Licensee shall ensure that all Standards-Based Extensions and Standards Base d
+Derivatives that the Licensee creates under this License Agreeme nt are created in
+accordanc e with, and comply with, all applicable Standards (including, without
+limitation, as to the use of Na mespace Identifiers).
+
+3.4
+
+Subject to clauses 3.5 and 3.6, the Licensee shall own all Intellectual Property
+Rights in all Extensions and D erivatives that the Licensee creates und er this License
+Agreeme nt. The Licensee may not assign or othe rwise transfer those Intellectual
+Property Rights to any other person unless (i) that person is an Affiliate and, in the
+case of Standards-Based Extensions or Standards- Ba sed Derivatives, has a Na mespace
+Identifier; and (ii) the transfer is notified in writing to the Licensor within thirty
+(30) days after the transfer.
+
+3.5
+
+The Licensee shall, if requested by the Licensor, transfer to the Licensor or a Me mber
+nominated by the Licensor all of its Intellectual Property Rights in such StandardsBased Extensions (or parts thereof) as the Licensor may specify.
+
+4
+
+3.6
+
+The parties may agree from time to time that t h e Licensee shall transfer to the
+Licensor ( or a Me mber nominated by the Licens or) the L i c e n s e e ’ s Intellectual
+Property Rights in o n e o r m o r e Standards- Based Derivatives.
+
+3.7
+
+Upon the transfer to the Licensor, or to a Me mb er, of the Intellectual Property
+Rights in any Standards-Based Extension (or pa rt thereof) or Standards-Based
+Derivative in accordanc e with clauses 3.5 or 3.6:
+3.7.1
+
+responsibility for the maintenance and distribution of that Extension (or part
+thereof) or Derivative shall also transfer from the Licensee to the Licensor
+or the Me mber (as the case may be); and
+
+3.7.2
+
+the Licensor hereby grants a license back to the Licensee from the Licenso r
+or will procure from the Me mber a license back to the Licensee (as the case
+may be) of that Extension (or part thereof) or Derivative, on the same term s
+as apply to the International Release under clause 2 of this License
+Agreeme nt, until that Extension (or part thereof) or Derivative becomes par t
+of the International Release or the Me mber’s National Release (as the cas e
+may be).
+
+4.
+
+M ODIFI CA TIONS T O TH E INTER NA T IONAL R EL EAS E
+
+4.1
+
+Subject to cla use 2. 1.4, the Licensee may not mo dify any part of the SNO MED CT
+Core distributed as part of the International Release or as part of a Mem ber’s National
+Release.
+
+4.2
+
+Subject to any express and specific stateme nt to the contrary in the docume ntation
+distributed as part of the International Release, the Licensee may not modify any of
+the docume ntation (including Specifications) or software (unless provided in source
+code form) distributed as part of the International Release.
+
+4.3
+
+The Licensee may, by written notice, request the Licensor to modify the S NO M ED
+CT Core. Upon receipt of such written notice, the Licensor shall consult with the
+Licensee and shall give due consideration as to whether the proposed modification
+should be made bas ed on the Licensor’s editorial guidelines and policies. Following
+due consideration of the matter, including consideration of any information
+presented by the Licensee, the Licensor shall inform the Licensee w hether the proposed
+modification shall be made and if the Licensor agrees that the proposed modification
+should be made, the Licensor shall give a non-binding indication of whe n,
+reasonably and in good faith, it anticipates that the proposed modification will be
+made. If the Licensee would like the content of the proposed modification to be
+developed more quickly than the Licensor has indicated, the Licensee may itself
+undertake or procure the undertaking of the developme nt of the content of the
+proposed modification (outside of any existing Licensor’s support services contract).
+On receipt of the developed content of the proposed modification, the Licensor will
+then give due consideration as to whether the developed content meets the
+Licensor’s quality assurance, other governanc e processes, Standards and Regulations.
+If the developed content me ets the Licensor’s quality assurance, other governance
+processes, Standards and Regulations then the Licensor shall
+
+5
+
+incorporate the modification into the SNO M ED CT Core according to its schedule
+which will give due consideration as to w hen the proposed modification shall be
+incorporated into the S NO MED CT Core, taking into account other proposals for the
+modification of the S NO MED C T Core and the work required to include the proposed
+modification in the SNO MED CT Core.
+5.
+
+TER M A ND TER MINA TION
+
+5.1
+
+This License Agree ment shall com me nce on the date on which it comes into effect
+in accordanc e with the notice at the beginning of this License Agreeme nt, and shall
+continue until terminated in accordanc e with this clause 5.
+
+5.2
+
+Either party m ay terminate this License Agree me nt if the other party commits a
+material breach of any of its obligations under this License Agreem ent (w hich, in
+the case of the Licensee, shall include, without limitation, any failure to pay License
+Fees when d ue und er clause 7) in accordanc e with the following procedure:
+5.2.1
+
+the party seeking to terminate the License Agree me nt (the “Terminating
+Party”) shall serve an escalation notice (the “Esc alation Notice”) on the
+other party (the “Defaulting Party”) requiring the Defaulting Party t o
+nominate a me mber of its senior ma nage me nt tea m to me et with a mem ber
+of the Terminating Party’s senior manag em ent team to seek to resolve i n
+good faith the matter giving rise to the service of the escalation notice.
+
+5.2.2
+
+The representatives of the parties identified in accordanc e with clause 5.2. 1
+shall meet in good faith to seek to resolve the mat ter. If they are unable to
+resolve the matter within 45 days of the date of the Escalation Notice the
+Terminating Party may serve a formal breach notice (the “Breac h Notice”)
+on the Defa ulting Party requiring it to remedy the breach within 90 days.
+
+5.2.3
+
+If the Defaulting Party does not re medy the breach within 90 days of the
+date of the Breach Notice the Terminating Party m ay terminate the Licens e
+Agreeme nt by giving 180 days’ written notice to the Defaulting Party (th e
+“Termination Notice”).
+
+5.3
+
+Neither party may terminate this License Agree ment except in accordanc e with this
+clause 5.
+
+5.4
+
+The Licensee may terminate this License A greem ent by giving up to twelve (12)
+months’ prior written notice to the Licensor.
+
+5.5
+
+Upon termination of this License Agree me nt in accordanc e with this clause 5, all
+licenses granted under this License Agreeme nt sha ll automatically and im mediately
+be revoked, e x c e p t a s p r o v i d e d i n c l a u s e 5 . 1 3 .
+
+5.6
+
+The Licensee shall, by no later than forty five (45) days after termination of this
+License Agree ment for any reason, remove all copies of the International Release
+from its com puter systems a nd destroy all copies of electronic, paper copy and
+other media containing or representing any part of the International Release, except
+for any copies of the International Release used solely for purposes of the Licensee
+exercising its rights und er clause 5.13 . The Licensee shall, if requested by the
+Licensor, certify in writing to the Licensor that the Licensee has complied with its
+obligations under this clause 5.6.
+
+6
+
+5.7
+
+The Licensee shall, as soon as reasonably practicab le following either party giving a
+Termination Notice for any reason, and in any ev ent by no later than ninety (90)
+days after such Termination Notice is given, give w ritten notice of such termination
+to each End User that the Licensee reasonably believes to be a current user of a
+Licensee Product and to each Me mb er in each Mem b er Territory in w hich the Licensee
+has distributed or licensed any Licensee Product.
+
+5.8
+
+The Licensee may not grant any new sub-license under clause 2.1.5 after either
+party has given notice under clauses 5.2 or 5.4.
+
+5.9
+
+The Licensor shall be entitled to publicize the termination of this License Agreem ent
+to such persons (including Me m bers, other Affiliates of the Licensor and End Users)
+and in such manner as it sees fit.
+
+5.10 Clauses 5.6, 5.7, 5.8, 5.9, 5.11, 5.12, 5 . 1 3 , 7, 8 and 10 to 14 inclusive shall
+survive termination of this License Agreem ent.
+5.11 The Licensee shall, by no later than thirty (30) days after termination of this License
+Agreem ent for any reason, sub mit a statem ent of account in accordance wit h
+clause 7.3 in respect of all periods that have not previously been covered by a
+stateme nt of account under that clause.
+5.12 Any termination of this License Agreem ent, for any reason, is without prejudice to
+the accrued liabilities of each party as at the date of termination (including, without
+limitation, any liability of the Licensee to pay License Fees that has accrued as at
+the date of termination), or to the Licensee’s obligation to pay License Fees arising
+from the statement of account sub mitted under cla use 5.1 1.
+5.13 The Licensee may, following termination of this License Agreement, continue to use the most recent
+version of the International Release as at the date of termination (such version, the “Final
+Permitted Version”), solely for purposes of reading records created prior to the date of
+termination and encoded using the Final Permitted Version or a prior version of the International
+Release. The Licensee has no right under this clause 5.13: (a) to create any record encoded using
+any version of the International Release; (b) to modify any SNOMED CT Content in any record
+encoded using any version of the International Release; or (c) in respect of any version of the
+International Release subsequent to the Final Permitted Version.
+6.
+
+NEW V ERS IONS A ND CH A NGES TO LICENSE TERM S
+
+6.1
+
+The Licensor shall notify the Licensee w hen each new version of the International
+Release is made av ailable and there shall be a mecha nism for the Licensee to access
+or obtain copies of the new version of the International Release. The Licensee shall
+be liable for any reasonable distribution charge, if applicable, established by the
+Licensor for each copy of the new version of the International Release.
+
+6.2
+
+Within one-hundred and eighty (180) days after the Licensor has notified the Licensee
+of the release of a new v ersion of the International Release, the Licensee m ust
+upgrade the version of the International Release in its own syste ms and in the Licensee
+Products to that new version (or alternatively, if a subseq uent version of the
+International Release is or has been released during the 180-day period, to that
+subseq uent version at the Licensee’s option).
+
+6.3
+
+The Licensor may vary the terms of this License Ag reement by giving written notice
+to the Licensee. Any such variation shall take effect not less than ninety (90) days
+
+7
+
+after the notice is given, as specified in the notice. If the Licensee does not wish
+this License Agree ment to continue subject to the variation, the Licensee may
+terminate this License Agreem ent in accordanc e with clause 5. 4, and if the Licensee
+gives notice of such termination before the variation takes effect then the variation
+shall not apply as betwe en the Licensor and the Licensee.
+6.4
+
+The College of American Pathologists, as originator of Intellectual Property Rights in
+the International Release, shall as a licensee have a specific exception to the Licensor’s
+rights in clause 6.3 in specific circu mstances and for a specific fixed term period to
+be agreed with the Licensor, and the terms of such special exemption shall be
+dee med part of such licensee’s Affiliate License Terms. The Licensor will publish the
+terms of the special exem ption with the Articles.
+
+7.
+
+LICENS E F EES
+
+7.1
+
+The Licensee shall pay the License Fees to the Licensor in respect of the Licensee’s
+activities in Non- Me mb er Territories. The License Fees shall be payable annually in
+arrear.
+
+7.2
+
+All License Fees and other amo unts payable to the Licensor under this License
+Agreeme nt are exclusive of value added tax and a ny other tax of a similar nature,
+which shall be payable by the Licensee at the prevailing rate in addition to those
+amounts.
+
+7.3
+
+The Licensee shall, at least once in each calend ar year, sub mit a statem ent of
+account to the Licensor in such manner and form as the Licensor may prescribe
+from time to tim e, setting out the Licensee’s activities in Non- Me mb er Territories
+since the end of the period covered by the previous stateme nt of account submitted
+under this clause 7.3 (or, in the case of the first stateme nt of account under this
+clause 7.3, since the date on which this License Agreeme nt became effective), and
+the Licensee’s calculation of the License Fees and other amounts payable to the
+Licensor in respect of that period. Each such stateme nt of account shall include,
+without limitation, a list of all license agreeme nts in respect of Licensee Products
+that w ere in force during the period covered by the stateme nt of account and, in
+relation to each such license agree ment, the dates on which: (a) that license
+agreeme nt was entered into or otherwise became ef fective; (b) the Licensee Product
+was first provided or ma de available to the license e under that license agree ment;
+and (c) the International Release (or any part of it) was first made available to
+the licensee under that license agree ment.
+
+7.4
+
+The Licensee shall provide the Licensor with such information as the Licensor may
+reasonably request for the purpose of verifying a ny state ment of account sub mitted
+to the Licensor und er clause 7.3.
+
+7.5
+
+The Licensor shall, following receipt of a statem e nt of account from the Licensee
+under clause 7.3, sub mit an invoice to the Licensee setting out the License Fees
+and other amo unts payable by the Licensee in respect of the period to w hich the
+stateme nt of account relates. The Licensee shall pay to the Licensor all amo unts
+set out on each invoice submitted under this clause 7.5 within thirty (30) days of
+receipt of that invoice. The Licensee shall make payme nt under this clause 7.5 b y
+wire transfer or by such other means as the Licensor may make available to the
+Licensee from time to time.
+
+7.6
+
+Interest shall accrue on any outstanding License Fees and other amounts at the
+rate of the lesser of (a) 500 basis points above the European Inter-Ba nk Offer Rate
+(EURI BOR), calculated daily from the date on which paym ent was due and
+
+8
+
+com pounding at the end of each calendar month or (b) the maximum amount
+allowed under applicable law.
+8.
+
+PR O TECTION OF TH E LICENS OR’S INTELLE CTU AL PR OPERTY
+
+8.1
+
+Nothing in this License Agreeme nt transfers to the Licensee any right, title or interest
+in or to the Intellectual Property Rights in the International Release or any part of it,
+or grants the Licensee any license in respect of the International Release or any part
+of it except as expressly set out in clause 2.
+
+8.2
+
+The Licensee shall not:
+
+8.3
+
+8.2.1
+
+use any trade mark or service mark (or any registrations thereof) other than
+the Licensor’s trademarks, in any na me that includes the word “S NO MED” or
+that is confusingly similar to SNO MED CT or any other similar trademark;
+
+8.2.2
+
+apply for any trade mark or service mark (or any registrations thereof) in
+any name that includes the word “SNO M ED”, or tha t is confusingly similar to
+SNO MED, SNO MED C T or any other similar trade ma rk;
+
+8.2.3
+
+abbreviate the marks SNO M ED or S NO M ED CT ; or
+
+8.2.4
+
+do anything with respect to the foregoing trade marks that damages or
+could reasonably be deem ed to reflect adversely on the Licensor or such
+trade marks.
+
+The Licensee shall:
+8.3.1
+
+include the following notice on all m edia on which the Licensee Products ar e
+distributed and on the docum entary form of each sub-license granted by the
+Licensee under cla use 2.1.5:
+“This material includes SNO MED Clinical Terms ® (SNO MED CT ®) w hich is
+used by per mission of the International Health Terminology Standards
+Developme nt Organisation (IHTS D O). All rights reserved. SNO M ED CT ®, w as
+originally created by The College of American Pathologists. “S NO MED” and
+“S NO MED CT” are registered trade marks of the IHTS DO.”
+
+8.3.2
+
+specify in all media on w hich any Licensee Product is distributed the version
+and date of the International Release contained in the Licensee Product.
+
+8.4
+
+The Licensee shall be entitled to use the “S NO MED ” and “S NO MED CT” trade marks
+only on the Licensee Products distributed and modified in accordance with this License
+Agreem ent and any services relating thereto but not otherwise and subject to the
+trade mark utilization Regulation developed by the Licensor and published by the
+Licensor from time to time. All use by the Licensee of the “S NO MED” and
+“S NO MED CT” trade marks, and all good will resulting from that use, shall inure to
+the Licensor’s benefit.
+
+8.5
+
+The Licensee shall maintain quality standards with respect to modifying,
+suppleme nting, marketing and distributing the Licensee Products, and any services
+relating thereto, that are in accordanc e with applicable law and are at least as
+
+9
+
+stringent as the Regulations developed by the Licensor and published by the
+Licensor from time to tim e.
+8.6
+
+Upon reasonable written notice from the Licensor, the Licensee shall provide the
+Licensor with such information, documentation and materials (including software) as
+are reasonably necessary to enable the Licensor to ascertain the Licensee’s
+com pliance with its obligations under this License Agree ment. In the absence of
+circumstances giving the Licensor reasonable grounds to suspect a breach of this
+License Agree ment, the Licensor may not give notice under this clause 8.6 more
+freque ntly than once per year.
+
+8.7
+
+If any use of the International Release (including without limitation use through a
+Licensee Product) is reasonably determined by the Licensor to be below the standards
+of quality required under this License Agreement, the Licensor shall notify the
+Licensee of such deficiency in writing. Upon rece ipt of such notice, the Licensee
+shall take all necessary steps to correct such de ficiency (includin g such steps as
+the Licensor may reasonably specify).
+
+8.8
+
+The Licensee s hall maintain a complete, accurate and up -to-date register of all sublicenses granted by the Licensee under clause 2.1.5, and shall m ake that register
+available for inspection during normal business hours by the Licensor and its
+representatives upon the Licensor giving not less than fourteen (14) days’ prior
+written notice. The register m aintained by the Licensee under this cla use 8.8 s hall
+at a minimum contain the following information in respect of each sub-license: the
+name a nd registered office of the sub-licensee; the Licensee Product subject to the
+sub-license; and the version of the International Release included in that Licensee
+Product. This will enable the Licensor to:
+(a)
+
+verify that the Licensee has complied with this Lice nse Agreeme nt whe n
+entering into sublicences with End Us ers; and/or
+
+(b)
+
+offer support to End Users on termination of this License Agreeme nt.
+
+In the absence of circumstances giving the Licensor reasonable grounds to suspect
+a breach of this License Agree ment, the Licensor may not give notice und er this
+clause 8.8 more frequently than once per year.
+9.
+
+U SE IN M EM B ER TER RITOR IES A ND NON -M EM B ER TERR ITOR IES
+
+9.1
+
+The Licensee may only exercise its rights under this License Agree me nt in a Me mber
+Territory in accordanc e with such conditions as the Me mb er for that Me mber Territory
+may prescribe from time to time.
+
+9.2
+
+Conditions prescribed by a Me mber under cla use 9.1 may:
+9.2.1
+
+include, without limitation, a requirem ent that the Licensee notify the Me m be r
+before exercising its rights under this License Agr eeme nt in that Me mber’s
+territory and a requireme nt that the Licensee enter into a license agreeme n t
+with the Me mber in respec t of that Me mber’s National Release; and
+
+9.2.2
+
+relate to the International Release, the Me m ber’s National Release or any
+part of either of them.
+
+10
+
+9.3
+
+The Licensee shall notify the Licensor (and, if the Licensee’s registered office or
+principal place of business is situated in a Me mbe r Territory, shall also notify the
+Me mb er for that Me mber Territory) in writing befor e exercising its rights under this
+License Agreeme nt in any Non- Me mber Territory in respect of which the Licensee
+has not previously given notice under this clause 9.3. The notice shall be in such
+form and m anner as the Licensor may prescribe from time to time, and shall include
+such information about the Licensee’s current and proposed activities in that NonMe mb er Territory as the Licensor may require (bu t the Licensor may require only
+the same kinds of information as it requires to be provided by ne w Affiliates proposing
+to use, license or deploy the International Relea se or Licensee Products in NonMe mb er Territories).
+
+9.4
+
+In any case w here the Licensee gives notice to a Me mber in accordanc e with clause
+9.3, the Licensee consents to that Mem ber providing the content of that notice to
+the Licensor.
+
+9.5
+
+For purposes of this cla use 9, the Licensee exercises its rights und er this License
+Agreeme nt in any Me mber Territory or Non-Me m be r Territory if, without limitation,
+it:
+
+10.
+
+9.5.1
+
+performs any act permitted by this License Agreeme nt in that Me mber
+Territory or Non- Me mb er Territory (as the case may be);
+
+9.5.2
+
+deploys the International Release (or any part of it) or any Licensee Product
+in that Me mber Territory or Non- Me mber Territory (as the case may be); or
+
+9.5.3
+
+distributes or licenses a Licensee Product for use in, or to any person who is
+situated in, that Me mber Territory or No n-Me mbe r Territory (as the case
+may be).
+
+AF FIL IA T E S TA TUS
+
+10.1 During the term of this License Agreem ent the Licensee shall be an Affiliate.
+11.
+
+REPR ES ENTATIONS A ND W A RR A NTIES
+
+11.1 To the extent permitted by law, the Licensor exclude s all representations,
+warranties and conditions that wo uld otherwise be implied by law in this License
+Agreeme nt (including, without limitation, all im plied warranties of quality or fitness
+for a particular purpose).
+11.2 Without limiting clause 11.1, the Licensor does not represent or warrant that the
+International Release or any part of it will satisfy any of the Licensee’s
+
+11
+
+requireme nts, operate in combinations selected b y the Licensee or be free from
+defects or errors.
+12.
+
+LIMITA T ION OF L IA B ILITY
+
+12.1 The Licensor shall not be liable to the Licensee or to any other person, whether in
+contract, tort (including negligence), misrepresenta tion, breach of statutory duty or
+other wise, for any of the following arising und er or in connection with this License
+Agreeme nt (including, without limitation, in respect of the Licensee’s use of or inability
+to use the International Release or any part of it):
+12.1.1 indirect or consequential loss;
+12.1.2 special or punitive da mages;
+12.1.3 loss of profits, loss of savings and loss of revenue;
+12.1.4 loss of business, loss of reputation and loss of goodwill; and
+12.1.5 loss of data.
+12.2 Neither the Licensor nor any Me mber shall be liable to the Licensee or any other
+person for any failure by the Licensor or the Me mber (as the case may be) to
+maintain or distribute any Extension (or part thereof) or Derivative transferred to
+the Licensor or the Me mber (as the case may be) in accordanc e with cla uses 3.4
+or 3.5.
+12.3 The liability of the Licensor arising in any year under or in connection with this
+License
+Agree ment,
+whether
+in
+contract,
+tort
+(including
+negligence),
+misrepresentation, breach of statutory duty or otherwise, shall not in any event
+exceed the License Fees paid by the Licensee in res pect of that year.
+12.4 Nothing in this License Agreeme nt excludes or limits the liability of either party for:
+12.4.1 fraud (including fraudulent misrepresentation);
+12.4.2 death or personal injury caused by the negligence of that party;
+12.4.3 any breach of its obligations implied by section 12 of the Sale of Goods Act
+1979; or
+12.4.4 any other liability that by law cannot validly be excluded or limited (but only
+to the extent that the liability cannot validly be excluded or limited).
+13.
+
+AS SIGNM EN T
+
+13.1 The Licensee may not assign, novate or otherwise transfer any of its rights or
+obligations under this License Agree ment to any person without the prior written
+consent of the Licensor, not to be unreasona bly withheld.
+
+12
+
+13.2 The Licensor may transfer all of its rights and obligations under this License
+Agreeme nt to any person to whom the Licensor transfers the Intellectual Property
+Rights in respect of which the licenses under this License Agreem ent are granted.
+14.
+
+GENER AL PR OV IS IONS
+
+14.1 This License Agreeme nt contains the entire agree m ent b etween the parties relating
+to the subject matter of this License Agree ment, supersedes all previous agreem ents
+between the Parties relating to that subject matter and sets out the entirety of
+the Licensee’s rights in respect of the International Release.
+14.2 Each party ackno wledges that, in entering into this License Agree me nt, it has not
+relied on any representation, warranty, collateral contract or other assurance made
+by or on behalf of the other party before the date of this License Agree ment.
+14.3 Except as provided in clause 6.3, this License Agreeme nt may not be varied except
+in writing signed by both parties and expressed to vary this License Agreeme nt.
+14.4 Nothing in this License Agreem ent shall give either party the ability to act or incur
+obligations or liability on behalf of the other party or constitutes a joint venture,
+agency, partnership or employme nt relationship betwee n the parties.
+14.5 If any term of this License Agree me nt is or become s illegal, invalid or unenforceable
+in any jurisdiction, that shall not affect the legality, validity or enforceability in that
+jurisdiction of any other term of this License Agreeme nt, or the legality, validity or
+enforceability in any other jurisdiction of that or any other term of this License
+Agreeme nt.
+14.6 The Licensee agrees that the Licensor may appoint third parties to process personal
+data provided by the Licensee to the Licensor under or in connection with this
+License Agreem ent (including without limitation payme nt details provided in
+connection with the pay ment of License Fees). In connection with any such
+appointment, personal data provided by the Licensee may be transferred to, and
+processed in, a country outside the United Kingdom. The la ws governing the
+processing of personal data may be less stringe n t in such a country than in the
+United Kingdo m a nd the country in which the Licensee is bas ed .
+15.
+
+GOVER NING LA W A ND JU RIS D ICTION
+
+15.1 This License Agree ment shall be governed by, and construed in accordanc e with,
+English law.
+15.2 The English courts shall have exclusive jurisdiction to settle any dispute arising out
+of or in connection with this License Agree ment (including a dispute regarding its
+existence, validity or termination).
+15.3 Clause 15.2 is for the benefit of the Licensor only. As a result, the Licensor shall
+not be prevented from taking proceedings relating to any dispute in any other courts
+with jurisdiction. To the extent permitted by law, the Licensor may take concurrent
+proceedings in any nu mber of jurisdictions.
+
+13
+
+Ap pendix A
+Defined Ter ms
+In this License Agree ment, the following defined terms have the following mea nings:
+Affiliate
+
+a n affiliate of the Licensor in accordanc e with the
+Licensor’s Articles of Association;
+
+Cr oss-Map
+
+a work consisting of (i) S NO M ED CT Content and (ii)
+content of another no menclature, classification or
+knowledge structure, together with a set of
+relationships between (i) and (ii);
+
+Data Proc essing S ystem
+
+a com puter system that is used to analyze o r
+c r e a t e records or other data that is encoded using
+SNO M ED CT;
+
+Derivative
+
+a work consisting of (a) SNO MED CT Content, from
+the S NO MED C T COR E or an Extension; together with
+(b) either (i) additional properties and/or information
+about such SNO MED CT content; and/or (ii) any set
+of relationships between that SNO MED C T Content and
+content of other nomenclature, classification or
+knowledge structure, and includes a Cross-Map and a
+Sub-Set;
+
+End User
+
+a third party user of a Licensee Product;
+
+Exte nsion
+
+a work consisting of SNO MED CT Conte nt alone that
+is suppleme ntary to the S NO MED CT Core and that
+depends on the SNO MED CT Core;
+
+H ospital
+
+a health care body or organisation
+secondary and/or tertiary care;
+
+Intellectual Property Rights
+
+patents, trade marks, service marks, copyright
+(including rights in comp uter software), moral rights,
+database rights, rights in designs, trade secrets,
+know-ho w and other intellectual property rights, in
+each case w hether registered or unregistered a nd
+including applications for registration, and all rights
+or forms of protection having equivalent or similar
+effect in any jurisdiction;
+
+International Release
+
+the release produced and distributed by or on beha lf
+of the Licensor, consisting of the SNO M ED CT Core,
+the Specifications and the Licensor’s Derivatives and
+
+providing
+
+14
+
+other docu ments and software;
+License Fees
+
+the license fees set out in Appendix B (License Fees
+in No n- Me mber Territories);
+
+Licensee Prod u cts
+
+products distributed or licensed by the Licensee that
+(1) include or interoperate with the International
+Release (or any part of it) and/or any Extensions or
+Derivatives created by the Licensee und er this License
+Agreem ent, or (2) read or write records or other
+data that is encoded using SNO M ED C T;
+
+Me mber
+
+a me mber of the Licensor;
+
+Me mber Territory
+
+a territory that is represented by a Me mber (as
+published by the Licensor from time to time);
+
+Na mespace Ide ntifier
+
+a code or that part of a code that identifies the
+organization responsible for creating and maintaining
+a Standards-Based Extension or a Standards-Bas ed
+Derivative and is used as an eleme nt of SNO MED CT
+Identifiers;
+
+National Release
+
+in respect of each Me mber, the release produced and
+distributed by the Mem ber, consisting of the
+International Release, the Me mber’s Extensions, the
+Me mb er’s Derivatives and other docu ments a nd
+software;
+
+Non-Me mber Territory
+
+a territory that is not a Mem ber Territory;
+
+Practice
+
+(a)
+
+a single departme nt of a Hospital (subject to
+paragraph 2.2 of Appendix B); or
+
+(b) any health care body or organisation that
+provides principally primary care, including
+without limitation a pharmacy, an optician’s
+facility, a physiotherapy centre, a general
+medical practice or a family medical practice;
+Qualifying Research Pr oject
+
+a discrete researc h project that meets all of the
+following criteria:
+(a)
+
+it is supported by a formal proposal that has
+been peer revie wed;
+
+(b)
+
+it has been ethically approved in accordance with
+the prevailing legislation, regulations and
+guidelines in effect in the relevant territory;
+
+(c)
+
+it is conducted within a definite timeframe;
+
+15
+
+(d)
+
+the results of the research are offered for
+publication in peer-revie wed public journals and
+are provided to the Licensor free of charge prior
+to publication;
+
+Reg ulations
+
+regulations ma de by the Licensor;
+
+Relations hip
+
+a relationship, of a kind defined by the Licensor in
+Specifications, betwe en concepts (which may b e,
+without limitation, a hierarchical or an associative
+relationship) or between a concept and a description;
+
+S NOM ED CT
+
+the concept-ba sed work of clinical nomenclature and
+classification with multiple hierarchies and se mantic
+definitions kno wn as S NO M ED Clinical Terms (S NO M ED
+CT);
+
+S NOM ED CT Content
+
+terminological content, consisting of concepts,
+descriptions and Relationships, each of which is
+identified using a S NO MED CT Identifier;
+
+S NOM ED CT Core
+
+the SNO MED CT Content that is controlled,
+maintained and distributed by the Licensor from tim e
+to time;
+
+S NOM ED CT Ide ntifier
+
+a code, of a kind defined by the Licensor in
+Specifications, for identifying concepts, descriptions
+and Relationships;
+
+Specification
+
+sp ecifications promulgated by the Licensor for
+products and processing relating to S NO MED C T,
+including specifications of the internal logic of SNO M ED
+CT, editorial policies, guidelines and characteristics;
+
+Sp ons ored Territory
+
+a Non- Me mber Territory that has been recognized
+and designated by the Licensor as a sponsored
+territory (as published on the Licensor’s web site,
+www.sno med.org);
+
+Standard
+
+a Specification that is formally adopted by the
+Licensor and published by the Licensor (including by
+posting a copy of the Sp ecification on a website
+maintained by the Licensor) ;
+
+Standards-Based
+
+in respect of an Extension or a Derivative, an
+Extension or Derivative the creation of which is the
+subject of one or more Standards; and
+
+S ub-Set
+
+a sub-set of S NO MED CT Content that is grouped
+together for one or more purposes.
+
+16
+
+Ap pendix B
+License Fees in Non-Me m ber Territories
+1.
+
+Introd uction
+
+1.1
+
+This Appendix B sets out the license fees payable by the Licensee in respect of its
+activities in Non- Me m ber Territories.
+
+1.2
+
+The license fees set out in this Appe ndix B do not apply in respect of the Licensee’s
+activities in any Non- Me mber Territory if that Non- Me mb er Territory is a Sponsored
+Territory or was a Sponsored Territory at the time when the Licensee’s activities in
+that No n-Me mber Territory were carried out.
+
+1.3
+
+The Licensor ma y, in its sole discretion, waive the Licensee’s obligation to pay any
+or all of the license fees set out in this Appe ndix B if the Licensor considers that the
+Licensee’s activities in any Non- Me mber Territory are in support of charitable or
+humanitarian causes in that Non- Me m ber Territory. Any waiver by the Licensor
+under this paragraph 1.3 may be revoked by the Licensor at any time, shall be
+without prejudice to any of the Licensor’s other rights and remedies under this
+License Agree ment and s hall not relieve the Licens ee of any of its other obligations
+under this License Agree ment.
+
+1.4
+
+Beginning in 2015, license fees payable by the Licensee in respect of its activities in
+Non- Me mb er Territories for each financial year shall be adjusted by the same
+percentage as the General Asse mbly of the Licenso r agrees to adjust the Aggregate
+Annual Fee (as defined in the Licensor’s Articles of Association) relative to the
+Aggregate Annual Fee in the previous year.
+
+1.5
+
+For purposes of this Appe ndix B, but subject to p aragraph 1.6 , if a Hospital or a
+Practice is located on m ultiple physical sites, each such site shall be treated as a
+separate Hospital or Practice (as the case may be) , and license fees shall be payable
+in respect of each such separate Hospital or Practice.
+
+1.6
+
+The Licensor may, in its sole discretion, agree to treat multiple sites on which a
+Hospital or a Practice is located as a single site for purposes of this Appendix B.
+
+1.7
+
+Notwithstanding anything else in this Appendix B, the deploym ent, distribution or
+licensing of any softw are that operates on a mobile device of any kind (including
+without limitation a mobile phone or tablet device), or any software or service that
+is accessed via the internet and enables users to extract or do wnload any substantial
+portion of S NO MED CT, shall be treated as falling within paragraph 4 of this Appendix
+B (and not within paragraph 2).
+
+1.8
+
+The Licensee’s obligation to pay license fees in respect of any deployment of the
+International Release or any Licensee Product is not dependent on that deployment
+of the International Release or Licensee Product b eing used in a live or production
+environ ment. The Licensor may, in its sole discretion, waive the Licensee’s obligation to pay
+any or all of the license fees set out in this Appendix B in respect of any deployment of the
+International Release or Licensee Product in a non-production environment (such as a
+development or test environment).
+
+1.9
+
+In any case where the Licensee is exempt from the requireme nt to pay license fees
+by reason of a Licensee Product or a Data P r o c e s s i n g System
+
+17
+
+being used exclusively in connection with a Qualifying Researc h Project, the Licensee
+shall report to the Licensor on the progress o f that Qualifying Researc h Project in
+such manner as the Licensor may reasonably require. The Licensor may revoke the
+Licensee’s exemption for Qualifying Researc h Projects provided in this Appendix B
+if the Licensee fails to comply with this paragraph 1.9.
+
+2.
+
+Data Processing Syste ms
+
+2.1
+
+The Licensee shall pay the following fees in respect of each Hospital or Practice in a
+Non- Me mb er Territory in or to which the Licensee:
+(a)
+
+deploys the International Release (or any part of it) or any Licensee Product
+that contains the International Release (or any part of it) in a Data Processing
+System, unless that Data P r o c e s s i n g System is used exclusively in
+connection with a Qualifying Researc h Project; or
+
+(b)
+
+deploys, distributes or licenses a Licensee Product that is or includes a Data
+P r o c e s s i n g System, unless that Licensee Product is used exclusively in
+connection with a Qualifying Research Project.
+
+Hospital in Band A Territory
+
+US$ 1,954 per annu m baseline
+adjusted as per paragraph 1.4
+
+fee
+
+Hospital in Band B Territory
+
+US$ 1,303 per annu m baseline
+adjusted as per paragraph 1.4
+
+fee
+
+Hospital in Band C Territory
+
+US$ 652 per annu m baseline fee adjusted
+as per paragraph 1.4
+
+Practice in Ba nd A, B or C Territory
+
+US$ 652 per annu m baseline fee adjusted
+as per paragraph 1.4
+
+Hospital or Practice in Low Income Ba nd
+
+US $0 per annu m baseline fee, adjusted
+as per paragraph 1.4
+
+Hospital or Practice in other territory
+
+As per paragraph 5.2.
+
+2.2
+
+The total fees payable by the Licensee in respect of a nu mber of Practices that are
+departments of a single Hospital shall not exceed the fee applicable to the Hospital
+itself. For purposes of this Appendix B, a Practice is treated as a departme nt of a
+Hospital only if: (a) it is located on the premises of that Hospital; and (b) it is
+funded solely by that Hospital. In any case where either or both of the conditions
+in the preceding se ntence are not met in respect of any Practice, fees shall be
+payable in respect of that Practice in addition to any fees that are payable in respect
+of any Hospital.
+
+3.
+
+[Not Used]
+
+18
+
+4.
+
+Ot her Activities
+
+4.1
+
+The Licensee shall notify the Licensor in writing be fore deploying the International
+Release (or any part of it) or deploying, distributing or licensing any Licensee Product
+(in each case, other than exclusively in connection w ith Qualifying Rese arc h Projects)
+in, for use in, or to any person situated in, any No n-Me m ber Territory in a manner
+that does not fall within paragraph 2 of this Appe ndix B, explaining the Licensee’s
+proposed activities.
+
+4.2
+
+Upon receiving notice from the Licensee under this pa ragraph 4, the Licensor may
+request, and the Licensee shall provide, such additional information in relation to
+the Licensee’s proposed activities as the Licensor considers reasonably necessary to
+determine an appropriate license and reasonable fee in respect of the Licensee’s
+proposed activities.
+
+19
+
+4.3
+
+The Licensee shall be liable to pay such license fees as the Licensor may determine
+in accordanc e with this paragraph 4.
+
+5.
+
+Non-Me mber Territory Ba ndings
+
+5.1
+
+The allocation of a Non- Me mber Territory into Ba nd A, Band B, Ba nd C, or Low
+Income Ba nd shall be as determined by the Licensor (based on the Non- Me m ber
+Territory’s relative Gross National Income (GNI) or other meas ure adopted by the
+Licensor) and published by the Licensor on its web s ite (www.sno med.org).
+
+5.2
+
+The Licensee shall notify the Licensor in writing before carrying out any activity of a
+kind described in paragraph 2 of this Appendix B in a Non- Me mber Territory that
+has not been allocated by the Licensor under paragraph 5.1. Upon receiving notice
+from the Licensee under this paragraph 5.2, the Licensor shall allocate the NonMe mb er Territory as described in paragraph 5.1.
+
+
