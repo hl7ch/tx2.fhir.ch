@@ -15,11 +15,11 @@ sources:
   - internal:mimetypes
 
   # UCUM - Unified Code for Units of Measure
-  # - ucum:data/terminology-cache/ucum-essence-2.2.xml
+  - ucum:data/terminology-cache/ucum-essence-2.2.xml
 
   # SNOMED CT (International Edition)
-  - snomed!:sct_intl_20260601.cache
-  - snomed:sct_ch_20260607.cache
+  - snomed!:sct_intl_20260601_new.cache
+  - snomed:sct_ch_20260607_new.cache
 
   # LOINC (Logical Observation Identifiers Names and Codes)
   - loinc:Loinc_2.82.db

@@ -16,8 +16,8 @@ BASE_URL="https://igs.raly.ch/tx.fhir.ch/cache-files"
 #    "sct_intl_20260601.cache"
 #)
 FILES=(
-    "sct_ch_20260607.cache"
-    "sct_intl_20260601.cache"
+    "sct_ch_20260607_new.cache"
+    "sct_intl_20260601_new.cache"
 )
 
 # Create the download directory if it doesn't exist
